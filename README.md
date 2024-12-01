@@ -1,4 +1,4 @@
-# Laravel
+# MedEco
 
 ### Technical Details:
 - UI: Jetpack Compose for a declarative UI.
