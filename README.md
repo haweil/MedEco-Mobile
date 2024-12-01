@@ -24,8 +24,8 @@
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Shifak-Health/shifak-mobile.git
-    cd shifak
+    git clone https://github.com/haweil/MedEco-Mobile
+    cd MedEco
     ```
 
 2. **Open the project in Android Studio**:
